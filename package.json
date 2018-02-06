@@ -1,0 +1,19 @@
+{
+  "name": "book-store",
+  "version": "0.0.1",
+  "description": "artTemplate服务端练习",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start":"node server"
+  },
+  "keywords": [
+    "bookStore"
+  ],
+  "author": "李光辉",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^3.0.3",
+    "express": "^4.14.0"
+  }
+}
